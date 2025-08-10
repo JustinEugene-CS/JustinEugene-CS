@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Justin Eugene, a senior at Middle Tennessee State University. I am experienced in working in team-based environments to accomplish objectives with robust technical solutions. Inquisitive with errors and always ready to dig deep to resolve problems. Equipped with a passion for problem-solving and a drive for excellence, I am committed to ensuring seamless technology operation within educational environments. I'm currently learning data communication and networks.
+I'm Justin Eugene, a Middle Tennessee State University graduate. I am experienced in working in team-based environments to accomplish objectives with robust technical solutions. Inquisitive with errors and always ready to dig deep to resolve problems. Equipped with a passion for problem-solving and a drive for excellence, I am committed to ensuring seamless technology operation within educational environments.
 
 ## How to reach me:
 justin.eugene123@gmail.com
