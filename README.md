@@ -6,8 +6,6 @@ justin.eugene123@gmail.com
 
 https://www.linkedin.com/in/justin-eugene-babb89172/
 
-https://mtsu.joinhandshake.com/profiles/34502768
-
 
 <!--
 **Zhelios/Zhelios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
